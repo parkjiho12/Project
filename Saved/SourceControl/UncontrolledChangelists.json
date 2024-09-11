@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/work/Project/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/work/Project/Content/EscapeRoom/GameMode/ER_VRPawn.uasset",
+				"C:/work/Project/Content/EscapeRoom/Level/EscapeLevel.umap",
+				"C:/work/Project/Content/EscapeRoom/GameMode/BP_ER_GameMode.uasset",
+				"C:/work/Project/Content/EscapeRoom/BluePrints/BP_Door.uasset",
+				"C:/work/Project/Content/EscapeRoom/BluePrints/BP_WindowCurtain.uasset",
+				"C:/work/Project/Content/EscapeRoom/Data/EN_ItemType.uasset",
+				"C:/work/Project/Content/EscapeRoom/Data/ST_Item.uasset",
+				"C:/work/Project/Content/EscapeRoom/Data/DT_ItemTable.uasset",
+				"C:/work/Project/Content/EscapeRoom/BluePrints/BP_InvenComponent.uasset",
+				"C:/work/Project/Content/EscapeRoom/BluePrints/BP_Item.uasset",
+				"C:/work/Project/Content/EF_MollyGreg/Maps/Demo.umap",
+				"C:/work/Project/Content/EscapeRoom/Widget/SlotEntryWidget.uasset",
+				"C:/work/Project/Content/EscapeRoom/Widget/InvenWidget.uasset",
+				"C:/work/Project/Content/EscapeRoom/BluePrints/BP_InvenPad.uasset"
+			]
+		}
+	]
+}
