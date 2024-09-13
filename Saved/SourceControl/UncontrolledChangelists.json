@@ -19,7 +19,14 @@
 				"C:/work/Project/Content/EF_MollyGreg/Maps/Demo.umap",
 				"C:/work/Project/Content/EscapeRoom/Widget/SlotEntryWidget.uasset",
 				"C:/work/Project/Content/EscapeRoom/Widget/InvenWidget.uasset",
-				"C:/work/Project/Content/EscapeRoom/BluePrints/BP_InvenPad.uasset"
+				"C:/work/Project/Content/EscapeRoom/BluePrints/BP_InvenPad.uasset",
+				"C:/work/Project/Content/EscapeRoom/Widget/DoorlockWidget.uasset",
+				"C:/work/Project/Content/EscapeRoom/Widget/NewBlueprint.uasset",
+				"C:/work/Project/Content/EscapeRoom/BluePrints/BP_Doorlock.uasset",
+				"C:/work/Project/Content/EscapeRoom/Level/Es.umap",
+				"C:/work/Project/Content/EscapeRoom/Level/StartLevel.umap",
+				"C:/work/Project/Content/EscapeRoom/Level/EscapeLevel1.umap",
+				"C:/work/Project/Content/EscapeRoom/BluePrints/BP_Portal.uasset"
 			]
 		}
 	]
